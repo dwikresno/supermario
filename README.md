@@ -20,7 +20,7 @@ Nice
 
 First you must download/clone this project
 
-Second running this command
+running this command
 ```bash
 flutter pub get
 ```
